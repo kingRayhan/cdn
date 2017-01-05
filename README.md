@@ -62,6 +62,7 @@ https://kingrayhan.github.io/cdn/w3-css/w3.min.css
 
 http://fontawesome.io/
 
+
 ```
 https://kingrayhan.github.io/cdn/fontAwesome/css/font-awesome.css
 ```
@@ -69,10 +70,13 @@ https://kingrayhan.github.io/cdn/fontAwesome/css/font-awesome.css
 https://kingrayhan.github.io/cdn/fontAwesome/css/font-awesome.min.css
 ```
 
-# Material Design Icons
+# Material Design Iconic Font
 
 ```
-https://kingrayhan.github.io/cdn/material/material-design-iconic-font.min.css
+https://kingrayhan.github.io/cdn/material-design-iconic-font-2.2.0/css/material-design-iconic-font.css
+```
+```
+https://kingrayhan.github.io/cdn/material-design-iconic-font-2.2.0/css/material-design-iconic-font.min.css
 ```
 
 # animate.css
