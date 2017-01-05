@@ -72,6 +72,8 @@ https://kingrayhan.github.io/cdn/fontAwesome/css/font-awesome.min.css
 
 # Material Design Iconic Font
 
+http://zavoloklom.github.io/material-design-iconic-font/cheatsheet.html
+
 ```
 https://kingrayhan.github.io/cdn/material-design-iconic-font-2.2.0/css/material-design-iconic-font.css
 ```
