@@ -70,7 +70,12 @@ https://kingrayhan.github.io/cdn/fontAwesome/css/font-awesome.css
 ```
 https://kingrayhan.github.io/cdn/fontAwesome/css/font-awesome.min.css
 ```
+ # Material Design Icons
 
+  ```
+  https://kingrayhan.github.io/cdn/material/material-design-iconic-font.min.css
+  
+  ```
 # animate.css
 
 https://daneden.github.io/animate.css/
@@ -105,4 +110,3 @@ https://kingrayhan.github.io/cdn/Hover/hover.css
 ```
 https://kingrayhan.github.io/cdn/Hover/hover.min.css
 ```
-
